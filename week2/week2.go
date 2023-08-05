@@ -1,6 +1,5 @@
-package main
+package week2
 
-func main() {
-	print("Hello World")
-
+func Another() string {
+	return "Another package"
 }
