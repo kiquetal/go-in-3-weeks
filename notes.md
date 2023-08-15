@@ -7,3 +7,4 @@ go mod edit github.com/user/lib1=../lib1
 - somefile.go
 - somefile_test.go
 
+# For test use go test -v
