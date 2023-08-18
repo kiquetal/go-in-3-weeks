@@ -25,4 +25,5 @@ func sum2[T int | float32](numbers []T) T {
 		s += n
 	}
 	return s
+
 }
